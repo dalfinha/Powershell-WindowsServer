@@ -1,7 +1,6 @@
-# Hey/Ahoy!
-Os scripts estarão subdivididos por tipo de servidor e suas tools. <br> Navegue pelas branchs.<br>
-- Sistemas de Arquivos Distribuídos <br> 
-> Schedule + SMB <br>
-> AD + FSRM (File Server Resource Management)<br> 
-- Gerenciamento de Identidade e Acesso (AD)<br> 
-> Active Directory com Homedirectory <br>
+# Observações e Dicas
+> Alguns scripts em PowerShell que criei para administração dedicada no Windows Server.
+## Active Directory 
+###### Ambiente utilizado: Windows Server 2019 Base - Padrão AWS - Disco de 30gb. <br>
+Observações:<br>
+*é necessária a instalação do módulo do Active Directory e sua configuração.<br>
